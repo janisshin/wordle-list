@@ -4,8 +4,8 @@
 
 **How to use:**
 
-This currently only works on Mac or Linux. 
-1. Open the terminal
+This will only work on Mac or Linux. If you are a Windows user, go to the Windows Store and download the Ubuntu app. 
+1. Open the terminal (or the Ubuntu app for Windows users).
 2. Copy and past the following:
 `bash <(curl -s https://raw.githubusercontent.com/username/project/branch/path/file.sh)`
 3. Follow the prompts!
